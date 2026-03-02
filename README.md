@@ -13,6 +13,7 @@ The goal is not performance or production-ready code, but:
 ## Topics (work in progress)
 - Matrix/vector operations
 - Linear regression (OLS) from scratch
+- Combinatorics
 
 ## Status
 Work in progress. The repository evolves as new topics are explored.
